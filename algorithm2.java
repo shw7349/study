@@ -4,7 +4,7 @@
  solution 함수를 완성해주세요.
  */
 public class algorithm2 {
-    class Solution {
+    class Solution { 
         public int solution(int num1, int num2) {
             int answer = num1 % num2;
             return answer;
